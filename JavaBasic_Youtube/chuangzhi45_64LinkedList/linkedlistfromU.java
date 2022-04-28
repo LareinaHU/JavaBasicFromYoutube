@@ -1,0 +1,19 @@
+package chuangzhi45_64LinkedList;
+
+public class linkedlistfromU {
+    class Node{
+        int val;
+        Node next;
+        Node(){}
+        Node(int val){
+            this.val = val;
+        }
+        Node(int val, Node next){
+            this.val = val;
+            this.next = next;
+        }
+    }
+    class LinkedList{
+
+    }
+}
